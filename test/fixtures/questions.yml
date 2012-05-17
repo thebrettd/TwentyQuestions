@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  game: 1
+  turn: 1
+  text: MyString
+  answer: MyString
+
+two:
+  game: 1
+  turn: 1
+  text: MyString
+  answer: MyString

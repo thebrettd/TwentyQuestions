@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Game:</b>
+  <%= @question.game %>
+</p>
+
+<p>
+  <b>Turn:</b>
+  <%= @question.turn %>
+</p>
+
+<p>
+  <b>Text:</b>
+  <%= @question.text %>
+</p>
+
+<p>
+  <b>Answer:</b>
+  <%= @question.answer %>
+</p>
+
+
+<%= link_to 'Edit', edit_question_path(@question) %> |
+<%= link_to 'Back', questions_path %>

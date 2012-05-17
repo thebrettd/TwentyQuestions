@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  turn: 1
+  player1id: 1
+  player2id: 1
+
+two:
+  name: MyString
+  turn: 1
+  player1id: 1
+  player2id: 1
